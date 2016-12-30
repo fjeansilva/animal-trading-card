@@ -1,0 +1,28 @@
+body {
+  margin: 20px;
+}
+
+#card {
+  border: 1px solid #ddd;
+  padding: 0px 15px 15px 15px;
+  width: 330px;
+  -webkit-box-shadow: 10px 10px 5px 1px #f0f0f0;
+  -moz-box-shadow: 10px 10px 5px 1px #f0f0f0;
+  -box-shadow: 10px 10px 5px 1px #f0f0f0;
+}
+
+img {
+  width: 330px;
+}
+
+#card-info {
+  border: 1px solid #ddd;
+  margin-top: 15px;
+  padding: 0px 10px;
+}
+.info-itens {
+  -webkit-padding-start: 0px;
+  -moz-padding-start: 0px;
+  padding-start: 0px;
+  list-style-type: none;
+}

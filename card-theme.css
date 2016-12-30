@@ -1,0 +1,36 @@
+body {
+  margin: 20px;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: lighter;
+  background-color: #3b3e43;
+}
+
+#card {
+  background-color: #00acf4;
+  color: #fff;
+  border-radius: 3px;
+  width: 300px;
+  -webkit-box-shadow: 3px 3px 9px 0px #000;
+  padding-bottom: 10px;
+  font-size: 12px;
+}
+
+.card-title {
+  text-transform: uppercase;
+  padding: 15px 15px 0px 15px;
+  font-weight: 400;
+}
+
+.card-info {
+  border: 1px solid #33c2fe;
+  border-radius: 2px;
+  margin: 10px 10px 0px 10px;
+  padding: 10px;
+}
+
+.card-info-itens {
+  -webkit-padding-start: 0px;
+  -moz-padding-start: 0px;
+  padding-start: 0px;
+  list-style-type: none;
+}
